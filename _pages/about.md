@@ -19,10 +19,10 @@ I'm currently a junior student at Peking University and major in computer scienc
 
 My projects
 ======
-- [Image inpainting](https://github.com/ChrisWu1997/cvdl_inpainting) Course project of _Computer Vision and Deep Learning_ with [Tianyuan Zhang]()
-- [MURA](https://github.com/ChrisWu1997/MURA) Classification, localization and retrieval on MURA dataset. Course project of _Machine Learning_ with [Peng Cao]()
-- [Seam Carving](https://github.com/CsPsyc/Seam-Carving) Implementation of seam carving algorithm and deep learning energy based on Grad-CAM. Course project of _Study and Practice on Topics of Frontier Computing (II)_ with [Peng Cao]()
-- [Deep learning code snippets](https://github.com/ChrisWu1997/Deep-learning/tree/master/code-snippets) My code snippets and templetes for deep learning based on pytorch, still in active updating.
+- [Image inpainting](https://github.com/ChrisWu1997/cvdl_inpainting): Course project of _Computer Vision and Deep Learning_ with [Tianyuan Zhang]()
+- [MURA](https://github.com/ChrisWu1997/MURA): Classification, localization and retrieval on MURA dataset. Course project of _Machine Learning_ with [Peng Cao]()
+- [Seam Carving](https://github.com/CsPsyc/Seam-Carving): Implementation of seam carving algorithm and deep learning energy based on Grad-CAM. Course project of _Study and Practice on Topics of Frontier Computing (II)_ with [Peng Cao]()
+- [Deep learning code snippets](https://github.com/ChrisWu1997/Deep-learning/tree/master/code-snippets): My code snippets and templetes for deep learning based on pytorch, still in active updating.
 - Motion retargeting and video disentanglement. (currently working on)
 
 About Computer Graphics
