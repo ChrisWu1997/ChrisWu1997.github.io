@@ -16,7 +16,9 @@ I'm currently a junior student at Peking University and major in computer scienc
 Research
 ======
 __Learning Character-Agnostic Motion for Motion Retargeting in 2D__
-Kfir Aberman, Rundi Wu, Dani Lischinski, Chen Baoquan, Daniel Cohen-Or
+
+Kfir Aberman, __Rundi Wu__, Dani Lischinski, Chen Baoquan, Daniel Cohen-Or
+
 (submitted to SIGGRAPH 2019)
 
 
