@@ -26,3 +26,11 @@ Finished Projects
 - [MURA](https://github.com/ChrisWu1997/MURA): Classification, localization and retrieval on MURA dataset. Course project of _Machine Learning_ with [Peng Cao](https://cspsy.github.io).
 - [Seam Carving](https://github.com/CsPsyc/Seam-Carving): Implementation of seam carving algorithm and deep learning energy based on Grad-CAM. Course project of _Study and Practice on Topics of Frontier Computing (II)_ with [Peng Cao](https://cspsy.github.io).
 - [Rendering](): Implementation of basic ray tracing algorithm and some optimization. Course project of _Computer Generated Imagery and Visual Effects_. 
+
+
+Honors and Awards
+======
+- Admitted as a member of Turing Class.
+- "Founder Group" Scholarship in the academic year of 2016-2017.
+- Merit Student in the academic year of 2016-2017.
+- "Mount Qomolangma Climbing" Scholarship in the academic year of 2017-2018.
