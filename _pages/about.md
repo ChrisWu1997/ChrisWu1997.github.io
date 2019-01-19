@@ -15,16 +15,14 @@ I'm currently a junior student at Peking University and major in computer scienc
 
 Research
 ======
-__Learning Character-Agnostic Motion for Motion Retargeting in 2D__
-
-Kfir Aberman, __Rundi Wu__, Dani Lischinski, Chen Baoquan, Daniel Cohen-Or
-
+__Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
+Kfir Aberman, __Rundi Wu__, Dani Lischinski, Chen Baoquan, Daniel Cohen-Or  
 (submitted to SIGGRAPH 2019)
 
 
-Course Projects
+Finished Projects
 ======
-- [Image inpainting](https://github.com/ChrisWu1997/cvdl_inpainting): Course project of _Computer Vision and Deep Learning_ with [Tianyuan Zhang]()
-- [MURA](https://github.com/ChrisWu1997/MURA): Classification, localization and retrieval on MURA dataset. Course project of _Machine Learning_ with [Peng Cao](https://cspsy.github.io)
-- [Seam Carving](https://github.com/CsPsyc/Seam-Carving): Implementation of seam carving algorithm and deep learning energy based on Grad-CAM. Course project of _Study and Practice on Topics of Frontier Computing (II)_ with [Peng Cao](https://cspsy.github.io)
-- [Rendering](): Implementation of ray tracing. Course project of _Computer Generated Imagery and Visual Effects_. 
+- [Image inpainting](https://github.com/ChrisWu1997/cvdl_inpainting): Course project of _Computer Vision and Deep Learning_ with [Tianyuan Zhang]().
+- [MURA](https://github.com/ChrisWu1997/MURA): Classification, localization and retrieval on MURA dataset. Course project of _Machine Learning_ with [Peng Cao](https://cspsy.github.io).
+- [Seam Carving](https://github.com/CsPsyc/Seam-Carving): Implementation of seam carving algorithm and deep learning energy based on Grad-CAM. Course project of _Study and Practice on Topics of Frontier Computing (II)_ with [Peng Cao](https://cspsy.github.io).
+- [Rendering](): Implementation of basic ray tracing algorithm and some optimization. Course project of _Computer Generated Imagery and Visual Effects_. 
