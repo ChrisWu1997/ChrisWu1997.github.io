@@ -12,12 +12,6 @@ About me
 ======
 I'm currently a junior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. My current areas of interests include deep learning, computer graphics and computer vision. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. My CV is [here](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf). 
 
-Research
-======
-__Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
-(submitted to SIGGRAPH 2019)
-
-
 Finished Projects
 ======
 - [Image inpainting](https://github.com/ChrisWu1997/cvdl_inpainting): Course project of _Computer Vision and Deep Learning_ with [Tianyuan Zhang]().
