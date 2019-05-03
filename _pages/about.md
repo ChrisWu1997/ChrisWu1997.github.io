@@ -10,7 +10,20 @@ redirect_from:
 
 About me
 ======
-I'm currently a junior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. My current areas of interests include deep learning, computer graphics and computer vision. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. My CV is [here](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf). 
+I'm currently a junior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. My current areas of interests include deep learning, computer graphics and computer vision. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf). 
+
+
+Research
+======
+__Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
+  Kfir Aberman, __Rundi Wu__, Dani Lischinski, Chen Baoquan, Daniel Cohen-Or  
+  (SIGGRAPH 2019)
+  
+Open Source Projects
+======
+__TensorLayer 2.0__
+  A Deep Learning and Reinforcement Learning Library for Scientists.[WIP](https://github.com/zsdonghao/tensorlayer2) 
+  Ready to be released on May 4, 2019.
 
 Finished Projects
 ======
