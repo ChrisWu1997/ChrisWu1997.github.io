@@ -21,9 +21,9 @@ __Learning Character-Agnostic Motion for Motion Retargeting in 2D__
   
 Open Source Projects
 ======
-__TensorLayer 2.0__
-  A Deep Learning and Reinforcement Learning Library for Scientists.[WIP](https://github.com/zsdonghao/tensorlayer2) 
-  Ready to be released on May 4, 2019.
+__[TensorLayer 2.0](https://github.com/tensorlayer/tensorlayer)__(4800+ stars)  
+  A Deep Learning and Reinforcement Learning Library for Scientists.  
+  I'm one of the main contributer to TL 2.0 and member of TensorLayer core team.  
 
 Finished Projects
 ======
