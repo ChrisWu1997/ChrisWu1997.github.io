@@ -15,9 +15,10 @@ I'm currently a junior student at Peking University and major in computer scienc
 
 Research
 ======
-__Learning Character-Agnostic Motion for Motion Retargeting in 2D__ (SIGGRAPH 2019)
+__Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
   Kfir Aberman, __Rundi Wu__, Dani Lischinski, Chen Baoquan, Daniel Cohen-Or  
-  [project page](https://motionretargeting2d.github.io) [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
+  *SIGGRAPH 2019*.  
+  [project page](https://motionretargeting2d.github.io) | [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) | [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) | [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
   
 Open Source Projects
 ======
