@@ -15,13 +15,13 @@ I'm currently a junior student at Peking University and major in computer scienc
 
 Research
 ======
-__Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
+__Learning Character-Agnostic Motion for Motion Retargeting in 2D__ (SIGGRAPH 2019)
   Kfir Aberman, __Rundi Wu__, Dani Lischinski, Chen Baoquan, Daniel Cohen-Or  
-  (SIGGRAPH 2019)
+  [project page](https://motionretargeting2d.github.io) [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
   
 Open Source Projects
 ======
-__[TensorLayer 2.0](https://github.com/tensorlayer/tensorlayer)__(4800+ stars)  
+__[TensorLayer 2.0](https://github.com/tensorlayer/tensorlayer)__ (4800+ stars)  
   A Deep Learning and Reinforcement Learning Library for Scientists.  
   I'm one of the main contributer to TL 2.0 and member of TensorLayer core team.  
 
