@@ -18,10 +18,12 @@ Research
 <img width="120" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/motionretargeting_teaser.jpg"/>
 
 __Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
-  [Kfir Aberman](http://kfiraberman.github.io), __Rundi Wu__, [Dani Lischinski](http://danix3d.droppages.com), [Chen Baoquan](http://cfcs.pku.edu.cn/baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/index.html)
+  [Kfir Aberman](http://kfiraberman.github.io), __Rundi Wu__, [Dani Lischinski](http://danix3d.droppages.com), [Chen Baoquan](http://cfcs.pku.edu.cn/baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/index.html)  
   *SIGGRAPH 2019*.  
   [project page](https://motionretargeting2d.github.io) | [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) | [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) | [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
   
+<br/>
+
 Open Source Projects
 ======
 <img width="120" height="100" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/tl_white_logo.png"/>
@@ -29,6 +31,8 @@ Open Source Projects
 __[TensorLayer 2.0](https://github.com/tensorlayer/tensorlayer)__ (5000+ stars)  
   A Deep Learning and Reinforcement Learning Library for Scientists.  
   I'm one of the main contributer to TL 2.0 and member of TensorLayer core team.  
+
+<br/>
 
 Finished Projects
 ======
