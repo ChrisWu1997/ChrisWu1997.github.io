@@ -15,7 +15,7 @@ I'm currently a junior student at Peking University and major in computer scienc
 
 Research
 ======
-<img width="100" height="100" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/motionretargeting_teaser.jpg"/>
+<img width="120" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/motionretargeting_teaser.jpg"/>
 
 __Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
   [Kfir Aberman](http://kfiraberman.github.io), __Rundi Wu__, [Dani Lischinski](http://danix3d.droppages.com), [Chen Baoquan](http://cfcs.pku.edu.cn/baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/index.html)
