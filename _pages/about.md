@@ -22,6 +22,8 @@ __Learning Character-Agnostic Motion for Motion Retargeting in 2D__
   *SIGGRAPH 2019*.  
   [project page](https://motionretargeting2d.github.io) | [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) | [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) | [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
 
+<br/>
+
 <img width="120" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/pqnet-teaser.jpg"/>
 
 __PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes__  
