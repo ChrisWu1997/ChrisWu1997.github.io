@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I'm currently a senior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. My current areas of interests include deep learning, computer graphics and computer vision. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. This summer(2019), I visited the computer graphics group led by Prof.[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm) at Columbia University. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
+I'm currently a senior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. This summer(2019), I visited the computer graphics group led by Prof.[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm) at Columbia University. My current areas of interests include deep learning, computer graphics and computer vision, with special interest in learning based 3D shape modeling. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
 
 
 Research
@@ -21,14 +21,12 @@ __Learning Character-Agnostic Motion for Motion Retargeting in 2D__
   [Kfir Aberman](http://kfiraberman.github.io), __Rundi Wu__, [Dani Lischinski](http://danix3d.droppages.com), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/index.html)  
   *SIGGRAPH 2019*.  
   [project page](https://motionretargeting2d.github.io) | [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) | [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) | [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
-  
-<br/>
+
 <img width="120" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/pqnet-teaser.jpg"/>
 
 __PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes__  
   __Rundi Wu__, [Yixin Zhuang](http://www.yixin.io), [Kai Xu](https://kevinkaixu.net), [Hao Zhang](https://www2.cs.sfu.ca/~haoz/), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
-  *arxiv 1911.10949*  
-  [paper](http://arxiv.org/abs/1911.10949)
+  *[arxiv 1911.10949](http://arxiv.org/abs/1911.10949)*  
   
 <br/>
 
