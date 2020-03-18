@@ -10,27 +10,38 @@ redirect_from:
 
 About me
 ======
-I'm currently a senior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. This summer(2019), I visited the computer graphics group led by Prof.[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm) at Columbia University. My current areas of interests include deep learning, computer graphics and computer vision, with special interest in learning based 3D shape modeling. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
+I'm currently a senior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. This summer(2019), I visited Columbia University and worked with Prof.[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm) and Prof.[Carl Vondrick](http://carlvondrick.com). My current areas of interests include deep learning, computer graphics and computer vision, with special interest in learning based 3D shape modeling. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
+
+I'll join Columbia University as a CS PhD candidate in Fall 2020!
 
 
 Research
 ======
 
+<img width="120" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/multimodal-pc.jpg"/>
+
+&nbsp; __Multimodal Shape Completion via Conditional Generative Adversarial Networks__  
+&nbsp;  __Rundi Wu__, [Xuelin Chen](https://xuelin-chen.github.io), [Yixin Zhuang](http://www.yixin.io), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
+&nbsp;  *arxiv preprint*  
+&nbsp;  [paper](http://arxiv.org/abs/2003.07717)  
+
+<br/>
+
 <img width="120" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/pqnet-teaser.jpg"/>
 
-__PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes__  
-  __Rundi Wu__, [Yixin Zhuang](http://www.yixin.io), [Kai Xu](https://kevinkaixu.net), [Hao Zhang](https://www2.cs.sfu.ca/~haoz/), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
-  *CVPR 2020*  
-  [paper](http://arxiv.org/abs/1911.10949) | [code](https://github.com/ChrisWu1997/PQ-NET)  
+&nbsp; __PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes__  
+&nbsp;  __Rundi Wu__, [Yixin Zhuang](http://www.yixin.io), [Kai Xu](https://kevinkaixu.net), [Hao Zhang](https://www2.cs.sfu.ca/~haoz/), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
+&nbsp;  *CVPR 2020*  
+&nbsp;  [paper](http://arxiv.org/abs/1911.10949) | [code](https://github.com/ChrisWu1997/PQ-NET)  
   
 <br/>
 
 <img width="120" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/motionretargeting_teaser.jpg"/>
 
-__Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
-  [Kfir Aberman](http://kfiraberman.github.io), __Rundi Wu__, [Dani Lischinski](http://danix3d.droppages.com), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/index.html)  
-  *SIGGRAPH 2019*  
-  [project page](https://motionretargeting2d.github.io) | [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) | [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) | [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
+&nbsp; __Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
+&nbsp;  [Kfir Aberman](http://kfiraberman.github.io), __Rundi Wu__, [Dani Lischinski](http://danix3d.droppages.com), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/index.html)  
+&nbsp;  *SIGGRAPH 2019*  
+&nbsp;  [project page](https://motionretargeting2d.github.io) | [paper](https://motionretargeting2d.github.io/paper_camera_ready.pdf) | [code](https://github.com/ChrisWu1997/2D-Motion-Retargeting) | [video](https://www.youtube.com/watch?v=fR4h4OjZSdU&feature=youtu.be)  
 
 <br/>
 
@@ -45,17 +56,9 @@ __[TensorLayer 2.0](https://github.com/tensorlayer/tensorlayer)__ (5000+ stars)
 
 <br/>
 
-Finished Projects
-======
-- [Image inpainting](https://github.com/ChrisWu1997/cvdl_inpainting): Course project of _Computer Vision and Deep Learning_ with [Tianyuan Zhang]().
-- [MURA](https://github.com/ChrisWu1997/MURA): Classification, localization and retrieval on MURA dataset. Course project of _Machine Learning_ with [Peng Cao](https://cspsy.github.io).
-- [Seam Carving](https://github.com/CsPsyc/Seam-Carving): Implementation of seam carving algorithm and deep learning energy based on Grad-CAM. Course project of _Study and Practice on Topics of Frontier Computing (II)_ with [Peng Cao](https://cspsy.github.io).
-- [Rendering](): Implementation of basic ray tracing algorithm and some optimization. Course project of _Computer Generated Imagery and Visual Effects_. 
-
-
 Honors and Awards
 ======
-- Admitted as a member of Turing Class.
-- "Founder Group" Scholarship in the academic year of 2016-2017.
-- Merit Student in the academic year of 2016-2017.
+- Peking University Scholarship Second Prize in the academic year of 2018-2019.
 - "Mount Qomolangma Climbing" Scholarship in the academic year of 2017-2018.
+- Merit Student in the academic year of 2016-2017 and 2018-2019.
+- "Founder Group" Scholarship in the academic year of 2016-2017.
