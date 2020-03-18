@@ -25,12 +25,16 @@ Research
 &nbsp;  *arxiv preprint*  
 &nbsp;  [paper](http://arxiv.org/abs/2003.07717)  
 
+<br>
+
 <img width="140" height="130" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/pqnet-teaser.jpg"/>
 
 &nbsp; __PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes__  
 &nbsp;  __Rundi Wu__, [Yixin Zhuang](http://www.yixin.io), [Kai Xu](https://kevinkaixu.net), [Hao Zhang](https://www2.cs.sfu.ca/~haoz/), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
 &nbsp;  *CVPR 2020*  
 &nbsp;  [paper](http://arxiv.org/abs/1911.10949) | [code](https://github.com/ChrisWu1997/PQ-NET)  
+
+<br>
 
 <img width="140" height="130" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/motionretargeting_teaser.jpg"/>
 
