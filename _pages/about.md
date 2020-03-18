@@ -18,7 +18,7 @@ I'll join Columbia University as a CS PhD candidate in Fall 2020!
 Research
 ======
 
-<img width="140" height="140" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/multimodal-pc.jpg"/>
+<img width="140" height="130" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/multimodal-pc.jpg"/>
 
 &nbsp; __Multimodal Shape Completion via Conditional Generative Adversarial Networks__  
 &nbsp;  __Rundi Wu__\*, [Xuelin Chen](https://xuelin-chen.github.io)\*, [Yixin Zhuang](http://www.yixin.io), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
@@ -27,17 +27,16 @@ Research
 
 <br/>
 
-<img width="140" height="140" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/pqnet-teaser.jpg"/>
+<img width="140" height="130" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/pqnet-teaser.jpg"/>
 
 &nbsp; __PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes__  
 &nbsp;  __Rundi Wu__, [Yixin Zhuang](http://www.yixin.io), [Kai Xu](https://kevinkaixu.net), [Hao Zhang](https://www2.cs.sfu.ca/~haoz/), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
 &nbsp;  *CVPR 2020*  
 &nbsp;  [paper](http://arxiv.org/abs/1911.10949) | [code](https://github.com/ChrisWu1997/PQ-NET)  
-  
-<br/>
+
 <br/>
 
-<img width="140" height="140" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/motionretargeting_teaser.jpg"/>
+<img width="140" height="130" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/motionretargeting_teaser.jpg"/>
 
 &nbsp; __Learning Character-Agnostic Motion for Motion Retargeting in 2D__  
 &nbsp;  [Kfir Aberman](http://kfiraberman.github.io), __Rundi Wu__, [Dani Lischinski](http://danix3d.droppages.com), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/index.html)  
@@ -49,11 +48,11 @@ Research
 
 Open Source Projects
 ======
-<img width="120" height="100" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/tl_white_logo.png"/>
+<img width="140" height="120" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/tl_white_logo.png"/>
 
-__[TensorLayer 2.0](https://github.com/tensorlayer/tensorlayer)__ (5000+ stars)  
-  A Deep Learning and Reinforcement Learning Library for Scientists.  
-  I'm one of the main contributer to TL 2.0 and member of TensorLayer core team.  
+&nbsp; __[TensorLayer 2.0](https://github.com/tensorlayer/tensorlayer)__ (5000+ stars)  
+&nbsp;  A Deep Learning and Reinforcement Learning Library for Scientists.  
+&nbsp;  I'm one of the main contributer to TL 2.0 and member of TensorLayer core team.  
 
 <br/>
 
