@@ -32,7 +32,7 @@ Research
 &nbsp; __PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes__  
 &nbsp;  __Rundi Wu__, [Yixin Zhuang](http://www.yixin.io), [Kai Xu](https://kevinkaixu.net), [Hao Zhang](https://www2.cs.sfu.ca/~haoz/), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
 &nbsp;  *CVPR 2020*  
-&nbsp;  [paper](http://arxiv.org/abs/1911.10949) | [code](https://github.com/ChrisWu1997/PQ-NET)  
+&nbsp;  [paper](http://arxiv.org/abs/1911.10949) | [code](https://github.com/ChrisWu1997/PQ-NET) | [slides](https://github.com/ChrisWu1997/ChrisWu1997.github.io/blob/master/files/pqnet-slides.pdf)  
 
 <br>
 
