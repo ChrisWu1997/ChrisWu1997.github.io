@@ -22,7 +22,7 @@ Research
 
 &nbsp; __Multimodal Shape Completion via Conditional Generative Adversarial Networks__  
 &nbsp;  __Rundi Wu__\*, [Xuelin Chen](https://xuelin-chen.github.io)\*, [Yixin Zhuang](http://www.yixin.io), [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/)  
-&nbsp;  *arxiv preprint*  
+&nbsp;  *ECCV 2020 (spotlight)*  
 &nbsp;  [paper](http://arxiv.org/abs/2003.07717)  
 
 <br>
