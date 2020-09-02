@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I'm currently a senior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Before that, I worked at Megvii Inc as an intern during the summer of 2018. In 2019 summer, I visited Columbia University and worked with Prof.[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm) and Prof.[Carl Vondrick](http://carlvondrick.com). My current areas of interests include deep learning, computer graphics and computer vision, with special interest in learning based 3D shape modeling. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
+I'm currently a senior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). In 2019 summer, I visited Columbia University and worked with Prof.[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm) and Prof.[Carl Vondrick](http://carlvondrick.com). My current areas of interests include deep learning, computer graphics and computer vision, with special interest in learning based 3D shape modeling. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
 
 I'll join Columbia University as a CS PhD candidate in Fall 2020!
 
