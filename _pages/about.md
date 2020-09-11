@@ -10,9 +10,7 @@ redirect_from:
 
 About me
 ======
-I'm currently a senior student at Peking University and major in computer science. In parallel, I'm under my internship in Visual Computing and Learning lab at PKU, advised by Prof.[Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). In 2019 summer, I visited Columbia University and worked with Prof.[Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm) and Prof.[Carl Vondrick](http://carlvondrick.com). My current areas of interests include deep learning, computer graphics and computer vision, with special interest in learning based 3D shape modeling. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
-
-I'll join Columbia University as a CS PhD candidate in Fall 2020!
+I'm an incoming PhD student at Columbia University, advised by Prof. [Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm). Before joining Columbia, I obtained my B.S. degree in 2020 from Turing Class, Peking University. I was fortunated to work with Prof. [Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/) during my undergraduate research. My current areas of interests include deep learning, computer graphics and computer vision, with special interest in learning based 3D shape modeling. I enjoy learning and expolring, especially in the middle ground of computer vision and graphics. Here is my [CV](https://ChrisWu1997.github.io/files/CV-RundiWu.pdf).
 
 
 Research
@@ -58,7 +56,14 @@ Open Source Projects
 
 Honors and Awards
 ======
-- Peking University Scholarship Second Prize in the academic year of 2018-2019.
-- "Mount Qomolangma Climbing" Scholarship in the academic year of 2017-2018.
-- Merit Student in the academic year of 2016-2017 and 2018-2019.
-- "Founder Group" Scholarship in the academic year of 2016-2017.
+- Engineering School Dean's Fellowship, 2020, Columbia University.
+- Peking University Scholarship Second Prize in the academic year of 2018-2019, Peking University.
+- "Mount Qomolangma Climbing" Scholarship in the academic year of 2017-2018, Peking University.
+- Merit Student in the academic year of 2016-2017 and 2018-2019, Peking University.
+- "Founder Group" Scholarship in the academic year of 2016-2017, Peking University.
+
+
+Miscellaneous
+======
+- I'm a great sports fan, loving basketball/baseball/soccer.
+- I like playing strategy games, e.g. Civilization VI, Total War, Europa Universails IV.
