@@ -16,6 +16,15 @@ I'm an incoming PhD student at Columbia University, advised by Prof. [Changxi Zh
 Research
 ======
 
+<img width="140" height="100" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/denoise.png"/>
+
+&nbsp; __Listening to Sounds of Silence for Speech Denoising__  
+&nbsp;  [Ruilin Xu](https://henryxrl.wordpress.com), __Rundi Wu__, Yuko Ishiwaka, [Carl Vondrick](http://www.cs.columbia.edu/~vondrick/), [Changxi Zheng](http://www.cs.columbia.edu/~cxz/index.htm)  
+&nbsp;  *NeurIPS 2020*  
+&nbsp;  [project page](http://www.cs.columbia.edu/cg/listen_to_the_silence/) | [paper](https://arxiv.org/pdf/2010.12013.pdf)  
+
+<br>
+
 <img width="140" height="130" align="left" src="https://github.com/ChrisWu1997/ChrisWu1997.github.io/raw/master/images/multimodal-pc.jpg"/>
 
 &nbsp; __Multimodal Shape Completion via Conditional Generative Adversarial Networks__  
